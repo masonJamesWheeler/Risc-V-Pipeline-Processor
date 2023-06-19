@@ -91,8 +91,5 @@ For any questions, clarifications, or job inquiries, feel free to contact me dir
 
 **Developer Contact Information:**
 
-*Your contact information here*
-
----
-
-End of README
+masewheeler@uw.edu
+360-975-8555
